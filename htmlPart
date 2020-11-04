@@ -1,0 +1,37 @@
+<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+
+<main id="main">
+	<h1 id="title">Ayrton Senna</h1>
+	<p>The fastest Formula 1 driver</p>
+	<hr>
+	<div id="img-div">
+		<img id="image" src="https://cdn.shopify.com/s/files/1/3000/4890/products/NICOLESHENTING-Ayrton-Senna-da-Silva-Car-Racer-Art-Soie-Affiche-D-impression-Sport-Photos-Salon-D.jpg_640x640_2_600x.jpg?v=1577025271" />
+
+		<div id="img-caption">Ayrton Senna celebrating his victory in a Formula 1 race.</div>
+	</div>
+
+	<div id="tribute-info">
+		<h3><strong>Formula One World Championship career:</strong></h3>
+		<ul>
+			<li><strong>Entries:</strong> 162 (161 starts)</li>
+			<li><strong>Championships:</strong> 3 (1988, 1990, 1991)</li>
+			<li><strong>Wins:</strong> 41</li>
+			<li><strong>Podiums:</strong> 80</li>
+			<li><strong>Career points:</strong> 610</li>
+			<li><strong>Pole positions:</strong> 65</li>
+			<li><strong>Fastest laps:</strong> 19</li>
+			<li><strong>First entry:</strong> 1984 Brazilian Grand Prix</li>
+			<li><strong>First win:</strong> 1985 Portuguese Grand Prix</li>
+			<li><strong>Last win:</strong> 1993 Australian Grand Prix</li>
+			<li><strong>Last entry:</strong> 1994 San Marino Grand Prix</li>
+		</ul>
+	</div>
+
+	<p>
+		Ayrton Senna was the driver with the most pole positions in F1 history making him the fastest F1 driver. He died in a crash during his race in Imola, San Marino. While travelling with 300km/h at the Tamburello corner, Senna lost control of his car due to a brake failure and crashed into the concrete wall.
+	</p>
+
+	<div id="reference">
+		<a id="tribute-link" href="https://en.wikipedia.org/wiki/Ayrton_Senna" target="_blank"><strong>Here</strong></a><strong>, you can learn more about Ayrton Senna, this amazing driver!</strong>
+	</div>
+</main>
